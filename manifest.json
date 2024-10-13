@@ -20,8 +20,8 @@
         "scripting"
     ],
     "host_permissions": [
-        "https://*/_layouts/15/workbench.aspx",
-        "http://*/_layouts/15/workbench.aspx"
+        "https://*/_layouts/15/workbench.aspx*",
+        "http://*/_layouts/15/workbench.aspx*"
     ]
 
 }
